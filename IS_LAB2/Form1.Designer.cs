@@ -253,9 +253,9 @@ namespace IS_LAB2
             this.CurrentWord.AutoSize = true;
             this.CurrentWord.Location = new System.Drawing.Point(690, 193);
             this.CurrentWord.Name = "CurrentWord";
-            this.CurrentWord.Size = new System.Drawing.Size(35, 13);
+            this.CurrentWord.Size = new System.Drawing.Size(10, 13);
             this.CurrentWord.TabIndex = 12;
-            this.CurrentWord.Text = "label1";
+            this.CurrentWord.Text = " ";
             // 
             // CurWordLabel
             // 
@@ -280,9 +280,9 @@ namespace IS_LAB2
             this.CurIterNum.AutoSize = true;
             this.CurIterNum.Location = new System.Drawing.Point(690, 217);
             this.CurIterNum.Name = "CurIterNum";
-            this.CurIterNum.Size = new System.Drawing.Size(35, 13);
+            this.CurIterNum.Size = new System.Drawing.Size(13, 13);
             this.CurIterNum.TabIndex = 15;
-            this.CurIterNum.Text = "label1";
+            this.CurIterNum.Text = "0";
             // 
             // LogListBox
             // 
